@@ -336,6 +336,14 @@ window.addEventListener("DOMContentLoaded", () => {
 		}
 	});
 
+	document.getElementById("addtoincident").addEventListener("click", () => {
+		if (confirm("This will be the text to be added to the incident: " + input.value.trim())) {
+			txt = "You pressed OK!";
+		  } else {
+			txt = "You pressed Cancel!";
+		  }
+	});
+
 	document.getElementById("printtext").addEventListener("click", () => {
 		print();
 	});

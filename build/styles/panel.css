@@ -34,6 +34,9 @@ textarea{background:transparent;width:100%;height:100%;position:fixed;top:0;left
 .btn-copy{width:18px;height:18px;background:none;border:none;padding:0;margin:0;cursor:pointer}
 .btn-copy:hover{opacity:.65}
 .btn-copy svg{fill:var(--ext-nav-color);height:18px;width:18px}
+.btn-inc{width:18px;height:18px;background:none;border:none;padding:0;margin:0;cursor:pointer}
+.btn-inc:hover{opacity:.65}
+.btn-inc svg{fill:var(--ext-nav-color);height:18px;width:18px}
 .btn-print{width:18px;height:18px;background:none;border:none;padding:0;margin:0;cursor:pointer}
 .btn-print:hover{opacity:.65}
 .btn-print svg{fill:var(--ext-nav-color);height:18px;width:18px}
