@@ -15,6 +15,6 @@ const linkguide = "https://www.exabeam.com/project/note-sidebar/browser/google-c
 const linkproductdescription = "https://www.exabeam.com/project/note-sidebar/browser-extension/";
 const browsernewtab = "chrome://newtab/";
 const browserstore = "https://chrome.google.com";
-const linkyoutube = "https://www.youtube.com/@exabeamvandamme?sub_confirmation=1";
+const linkyoutube = "https://www.youtube.com/watch?v=sNHkAl0zTCg";
 const devmode = true;
 const devdonate = false;
